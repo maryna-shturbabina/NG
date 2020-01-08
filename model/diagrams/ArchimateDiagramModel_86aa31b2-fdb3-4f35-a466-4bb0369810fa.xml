@@ -664,7 +664,8 @@
         <children
             xsi:type="archimate:DiagramModelNote"
             id="40670bf5-70e6-4cd8-81e4-7c17fc56bf88"
-            content="NGVRSWEBB02P">
+            content="NGVRSWEBB02P"
+            textPosition="1">
           <bounds
               x="12"
               y="48"
