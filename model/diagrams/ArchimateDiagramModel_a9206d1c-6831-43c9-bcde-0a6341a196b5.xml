@@ -265,32 +265,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="e39384b3-3577-481c-ac4f-7aad66460b6b"
-      textAlignment="1">
-    <bounds
-        x="312"
-        y="244"
-        width="400"
-        height="152"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_364b4f08-d451-4326-93c1-051560889345.xml#364b4f08-d451-4326-93c1-051560889345"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="cff1040e-f084-4eaf-be76-2d3f6be635a3"
-      textAlignment="1">
-    <bounds
-        x="1140"
-        y="208"
-        width="400"
-        height="152"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_e4a481fc-65d1-4899-8597-d820ef95dab0.xml#e4a481fc-65d1-4899-8597-d820ef95dab0"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="504a36bf-8df7-4dc9-925a-9eeeef9669a1">
     <bounds
         x="1189"
