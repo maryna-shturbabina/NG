@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NG. Business architecture"
+    name="NG. Business view"
     id="7118ea69-7e65-4dc4-a890-184fab07db21">
   <children
       xsi:type="archimate:DiagramModelGroup"
