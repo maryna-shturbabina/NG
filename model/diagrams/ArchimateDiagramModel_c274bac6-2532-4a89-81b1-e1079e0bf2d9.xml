@@ -310,8 +310,6 @@
         name="Extenda"
         textAlignment="1">
       <bounds
-          x="12"
-          y="48"
           width="1117"
           height="565"/>
       <children
